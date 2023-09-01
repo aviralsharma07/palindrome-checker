@@ -13,7 +13,7 @@ body {
 
 .pailindrome-checker {
   border: 1px solid black;
-  width: 30rem;
+  max-width: 30rem;
   height: 25rem;
   padding: 3rem;
   border-radius: 3px;
@@ -21,6 +21,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: auto 1rem;
 }
 
 .pailindrome-form {
@@ -67,4 +68,5 @@ body {
   text-align: center;
   border-radius: 3px;
   padding: 1rem;
+  white-space: nowrap;
 }
