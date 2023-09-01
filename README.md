@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/aviralsharma07/palindrome-checker)
 ![GitHub issues](https://img.shields.io/github/issues/aviralsharma07/palindrome-checker)
 
-Welcome to the Palindrome Checker project! This is a simple web application that checks if a given word is a palindrome or not. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
+Welcome to the Palindrome Checker project! This is a simple web application that checks if a given word is a palindrome or not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
 
 ## Screenshots
 
@@ -19,7 +19,7 @@ Welcome to the Palindrome Checker project! This is a simple web application that
 
 ## Demo
 
-You can try the Palindrome Checker live at [Live Project Link](https://pailindrome-checker-avi.netlify.app).
+You can try the Palindrome Checker live at [Live Project Link](https://palindrome-checker-avi.netlify.app/).
 
 ## Features
 
